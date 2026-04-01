@@ -1,0 +1,62 @@
+# Core
+groq
+python-dotenv
+nltk
+numpy
+matplotlib
+pandas
+scikit-learn
+streamlit
+plotly
+ipywidgets
+notebook
+jupyter
+
+# General evaluation frameworks
+sentencepiece 
+promptbench 
+evaluate 
+openai 
+deepeval 
+lm-eval 
+litellm 
+torch 
+bert-score 
+rouge-score 
+sacrebleu
+accelerate>=0.27.0 
+datasets>=2.18.0
+
+# Text extraction evaluation
+spacy 
+Levenshtein 
+jsonschema 
+pydantic
+
+# Text to text evaluation
+textstat
+
+# Multi-modal evaluation
+open-clip-torch 
+Pillow
+
+# Long-context evaluation
+tiktoken
+transformers>=4.39.3 
+sentence-transformers>=2.6.1
+
+# RAG evaluation
+chromadb
+ragas
+langchain-openai
+langchain-groq
+langchain-community
+
+# Text-to-image evaluation
+pytorch-fid
+torchvision
+scipy
+requests
+
+# Safety & robustness evaluation
+detoxify
